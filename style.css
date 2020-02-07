@@ -256,7 +256,12 @@ padding:0.5rem 3rem;
     padding:3rem 5rem;
     border:2px solid white;
     margin:2rem;
-    /* height: 100%; */
+    transition: all 1s;
+}
+.skill_box:hover{
+    background-color: #fff;
+    color:royalblue;
+    border:none;
 }
 
 
